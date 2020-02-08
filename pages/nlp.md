@@ -1,2 +1,2 @@
 ## Sentence Classification
-[Kim (2014), "Convolutional Neural Networks for Sentence Classification"](sources/Kim - Convolutional Neural Networks for Sentence Classification (2014).pdf)
+[Kim (2014), "Convolutional Neural Networks for Sentence Classification"](https://github.com/196sigma/research-wiki/blob/master/pages/sources/Kim%20-%20Convolutional%20Neural%20Networks%20for%20Sentence%20Classification%20(2014).pdf)
