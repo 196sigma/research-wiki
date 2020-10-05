@@ -18,3 +18,5 @@ Reginald Edwards research wiki
 * psychology
 
 * cognitive-science
+
+* Text analysis 
