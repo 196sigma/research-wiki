@@ -12,7 +12,6 @@ This is the original word2vec paper.
 }
 
 ## URL
-[Mikolov et al, 2013]("../_pdfs/Mikolov et al - Efficient Estimation of Word Representations in Vector Space.pdf")
-
+[Mikolov et al, 2013](../_pdfs/Mikolov%20et%20al%20-%20Efficient%20Estimation%20of%20Word%20Representations%20in%20Vector%20Space.pdf)
 ## Tags
 nlp, word2cev, deeplearning, linguistics, computerscience
