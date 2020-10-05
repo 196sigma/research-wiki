@@ -9,4 +9,4 @@ This is the original word2vec paper.
       primaryClass={cs.CL}
 }
 
-(Link)[../_pdfs/mikolov-efficient-estimation-of-word-representations-in-vector-space.pdf]
+[Link](../_pdfs/mikolov-efficient-estimation-of-word-representations-in-vector-space.pdf)
